@@ -1,4 +1,4 @@
-# 📚 Learnovate – JAVA & DSA  
+## 📚 Learnovate – JAVA & DSA  
 
 ---
 
