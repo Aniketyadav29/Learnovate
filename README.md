@@ -7,7 +7,78 @@ Welcome to the **Learnovate Practice Repository** 🎉
 This repository is a collection of **questions & solutions** from **JAVA & Data Structures & Algorithms (DSA)** sessions conducted at **BBD University** by Learnovate.  
 It is designed to **help students practice, revise, and strengthen problem-solving skills** while building a strong foundation in **Java & DSA**.  
 
->
+> ⚡ Remember: The goal is to **practice first**. Only check solutions when you’re stuck after genuine effort.
+  
+### Discussions
+> Click Below to join Discussions
+
+[![Join Learnnovate Discussions](https://img.shields.io/badge/🚀_Learnnovate-Discussions-2EA44F?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27)](https://github.com/ankittroy-21/Learnovate/discussions)
+
+### Roadmap 
+> Click Below To View 🌐
+
+
+[![Java Roadmap](https://img.shields.io/badge/Java%20Roadmap-Live%20Demo-1E90FF?style=for-the-badge&logo=java&logoColor=white)](https://ankittroy-21.github.io/Learnovate/Roadmap/index.html)
+
+
+---
+
+
+### ⚠️Join the Xeqt Comunity By filling the Form
+<details>
+  <summary><b> Details and link [Click Me]</b></summary>
+
+
+  
+
+
+### 👋 Hey everyone!
+
+I’m excited to share that The Xeqt Community is officially launching, and we want YOU to be a part of it 🚀✨
+
+This is your chance to showcase your programming skills , interests , and how you’d like to contribute 🤝.
+Whether you're into web dev , ML , cybersecurity , or UI/UX  — there’s a place for you!
+
+📋 Please take a couple of minutes to fill out our application form here:
+👉 https://forms.gle/zKa1cUpXmvpHibuT7
+
+Why fill it out?
+
+
+- ✅ Let us get to know your expertise and interests
+- ✅ Be included in relevant projects, groups, or events
+- ✅ Help build an awesome, collaborative community 🌟
+
+💬 Feel free to reach out if you have any questions or need help with the form.
+
+
+> Contact Me at Telegram : `@itz_oxi`
+
+We can’t wait to welcome you to The Xeqt! 🎉
+
+Cheers,
+#### The Xeqt Team
+</details>
+
+---
+
+
+---
+
+## 🚀 About Us  
+
+We are a **team of developers and learners** passionate about:  
+- 🔥 Building **real-world solutions** with technology  
+- 📚 Strengthening the **coding culture at BBD University**  
+- 🌐 Exploring **new opportunities in development & research**  
+- 🤝 Creating a **collaborative space for problem-solving & knowledge-sharing**  
+
+<p align="center">
+  <img src="https://bbdu.ac.in/wp-content/uploads/2018/10/bbd-logo.png" width="200" />
+</p>
+
+> 📌 From **BBD University**, we aim to make coding & problem-solving an **everyday habit**.  
+
 ---
 
 ## 🚀 About JAVA & DSA  
