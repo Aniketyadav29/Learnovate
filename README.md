@@ -62,12 +62,6 @@ Cheers,
 
 ---
 
-## 🌟 Why this Repository?
-- ✅ Well-structured collection of **Lecture-wise problems**  
-- ✅ Solutions in **clean, beginner-friendly Java code**  
-- ✅ Encourages **learning by solving, not copying**  
-- ✅ A great way to prepare for **interviews & coding challenges**  
-- ✅ Open for students to **contribute & improve**  
 
 ---
 
